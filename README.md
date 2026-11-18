@@ -53,6 +53,7 @@ END
 
 ```
 OUTPUT
+<img width="1036" height="547" alt="WhatsApp Image 2026-11-18 at 9 49 37 AM" src="https://github.com/user-attachments/assets/18d14701-de49-405c-93df-3178385836fc" />
 
 (Keil output screenshot can be inserted here)
 
